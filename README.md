@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anasshofyan
 - 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning Flutter
+- 🌱 Tech Stack (ReactJS, VueJS, NextJS, NuxtJS, CSS, SCSS)
 - 📫 How to reach me anasshofyandev@gmail.com
 
 <!---
