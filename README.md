@@ -3,8 +3,6 @@
 - 👀 I’m interested in Front End Developer (Website & Mobile)
 - 📫 How to reach me anasshofyandev@gmail.com
 
-<br/>
-<br/>
 [![](https://visitcount.itsvg.in/api?id=anasshofyan&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
