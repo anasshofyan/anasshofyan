@@ -1,10 +1,13 @@
-# 💫 About Me:
+# 💫 About Me :
 - 👋 Hi, I’m @anasshofyan
 - 👀 I’m interested in Front End Developer (Website & Mobile)
 - 📫 How to reach me anasshofyandev@gmail.com
 
+[![](https://visitcount.itsvg.in/api?id=anasshofyan&icon=5&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anasshofyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anasshofyan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anasshofyanmf)
+
 
 # 💻 Tech Stack:
 ### ♨️ Program Language
@@ -28,15 +31,14 @@
 ### 🔦 Tools Management
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anasshofyan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=anasshofyan&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anasshofyan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anasshofyan&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=anasshofyan&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
