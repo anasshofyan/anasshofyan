@@ -5,7 +5,7 @@
 
 <br/>
 <br/>
-[![](https://visitcount.itsvg.in/api?id=anasshofyan&icon=5&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=anasshofyan&icon=5&color=0)](https://visitcount.itsvg.in)
 <br/>
 <br/>
 
