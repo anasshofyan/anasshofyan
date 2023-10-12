@@ -2,7 +2,6 @@
 - 👋 Hi, I’m @anasshofyan
 - 👀 I’m interested in Front End Developer (Website & Mobile)
 - 📫 How to reach me anasshofyandev@gmail.com
-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65275391f43a58c923bc0573?variant=dark)](https://roadmap.sh)
 
 [![](https://visitcount.itsvg.in/api?id=anasshofyan&label=Profile%20Views&color=1&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
